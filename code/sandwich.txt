@@ -1,0 +1,5 @@
+estimate: 25 lines
+
+lay 1 sandwich bread
+spread peanut butter on previous bread
+put 1 more same kind of bread on the other bread
